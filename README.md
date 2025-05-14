@@ -17,16 +17,18 @@ Highly motivated and adaptable MERN Stack Developer with hands-on experience bui
 - Other: JWT Auth, Shadcn UI, Firebase Auth, React Hooks, Context API
  
 ## Projects
-•	COVID-19 Global Data Tracker (Personal Project)
+#### •	COVID-19 Global Data Tracker (Personal Project)
 Tools: Jupyter Notebook, Python, Pandas, Matplotlib
 - Imported and cleaned COVID-19 datasets to analyze global trends.
 - Visualized data on cases, deaths, recoveries, and vaccinations.
 - Presented findings in an interactive dashboard-style notebook.
-•	E-commerce Database Design (Peer Group Assignment)
+  
+#### •	E-commerce Database Design (Peer Group Assignment)
 Tools: MySQL, ERD Tools, GitHub
 - Collaboratively designed an ERD and SQL schema for an e-commerce platform.
 - Documented architecture, constraints, and queries using GitHub for version control.
-•	DevMatch – Developer Social Platform (Full Stack App)
+  
+#### •	DevMatch – Developer Social Platform (Full Stack App)
 Stack: MongoDB, Express, React, Node.js
 - Built a social network for developers to connect and share portfolios.
 - Implemented JWT-based authentication and user profiles.
